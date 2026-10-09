@@ -1,0 +1,17 @@
+{
+  "name": "blog-app-test",
+  "version": "0.0.1",
+  "description": "Testing project for the Blog List App (Pala Pala)",
+  "license": "MIT",
+  "author": "Tim Grindall",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test --project=chromium",
+    "test:report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
