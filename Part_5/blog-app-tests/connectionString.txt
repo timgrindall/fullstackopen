@@ -1,1 +1,0 @@
-mongodb://merelytimo_db_user:nCb6RAJpZ8rKB0AT@ac-zvnk5hi-shard-00-00.iefovat.mongodb.net:27017,ac-zvnk5hi-shard-00-01.iefovat.mongodb.net:27017,ac-zvnk5hi-shard-00-02.iefovat.mongodb.net:27017/?ssl=true&replicaSet=atlas-birpmt-shard-0&authSource=admin&appName=Cluster0
